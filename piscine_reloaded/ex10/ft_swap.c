@@ -12,7 +12,7 @@ void ft_swap(int *a, int *b)
     *b = tmp ;
 }
 
-/* #include<stdio.h>
+#include<stdio.h>
 int main()
 {
     int i = 43 ;
@@ -20,4 +20,4 @@ int main()
     printf("%d %d\n",i,j);
     ft_swap(&i,&j);
     printf("%d %d\n",i,j);
-}   */
+}  
